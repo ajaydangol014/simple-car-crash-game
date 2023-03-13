@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "DotGothic16", sans-serif;
+}
+.game {
+  overflow: hidden;
+  position: relative;
+}
+.road {
+  background: url("assets/road.png");
+  height: 200%;
+  background-size: 600px 800px;
+}
